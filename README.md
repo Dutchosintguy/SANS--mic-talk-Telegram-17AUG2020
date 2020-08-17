@@ -10,8 +10,11 @@ Links shared during the talk:
 
 Telegram search tools:
 
+
 2: https://intelx.io/tools?tab=telegram
+
 3: http://tlgrm.eu/channels
+
 4: https://search.buzz.im/
 
 Saving Telegram chat & user information:
