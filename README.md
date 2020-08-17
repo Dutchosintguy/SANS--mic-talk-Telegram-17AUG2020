@@ -17,9 +17,11 @@ Telegram search tools:
 Saving Telegram chat & user information:
 
 5: https://github.com/pigpagnet/save-telegram-chat-history
+
 6: https://gist.github.com/fabledowl/ 
 
 Blog about the scripts show at point 6:
+
 
 > https://fabledowlblog.wordpress.com/2017/07/10/telegram-api-for-osint-part-1-users/
 > https://fabledowlblog.wordpress.com/2017/09/09/telegram-api-for-osint-part-2-messages/
