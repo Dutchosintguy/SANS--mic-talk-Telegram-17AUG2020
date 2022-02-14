@@ -4,6 +4,8 @@ This is a repo complentary to the SANS @mic Talk held on 17 Aug 2020.
 SANS@MIC - Leveraging Telegram for OSINT purposes
 Link to the @mic recording : https://www.sans.org/webcasts/sansatmic-leveraging-telegram-osint-purposes-115090
 
+Link to the @mic recording on Youtube: https://www.youtube.com/watch?v=e_aXQYq2l6U
+
 Links shared during the talk:
 
 1: https://telegram.org/
